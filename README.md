@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kfcbathroom25/danganmake-closingargumentdr2/releases/latest"><img src="https://img.shields.io/github/v/release/kfcbathroom25/danganmake-closingargumentdr2?style=for-the-badge&label=latest&color=ff2a3d&labelColor=3a0006" alt="Latest release"></a>
-  <a href="https://github.com/kfcbathroom25/danganmake-closingargumentdr2/releases"><img src="https://img.shields.io/github/downloads/kfcbathroom25/danganmake-closingargumentdr2/total?style=for-the-badge&color=ff2a3d&labelColor=3a0006" alt="Downloads"></a>
-  <img src="https://img.shields.io/badge/made%20for-Danganmake-ff2a3d?style=for-the-badge&labelColor=3a0006" alt="Made for Danganmake">
-  <img src="https://img.shields.io/badge/controller-supported-ff2a3d?style=for-the-badge&labelColor=3a0006" alt="Controller supported">
+  <a href="https://github.com/kfcbathroom25/danganmake-closingargumentdr2/issues/new?template=bug_report.yml"><img src="docs/btn_bugs.png" alt="Report bugs" width="250"></a>
+  <a href="https://github.com/kfcbathroom25?tab=repositories&q=danganmake-&type=source"><img src="docs/btn_more.png" alt="More minigames" width="250"></a>
+  <a href="https://freddysdarkon.itch.io/danganmake"><img src="docs/btn_danganmake.png" alt="Danganmake - get it on itch.io" width="250"></a>
 </p>
 
 <p align="center">
@@ -49,6 +48,8 @@ It comes with Chapter 1 ready to play, and a Page Builder with every DR2 page fr
 </table>
 
 ## 📥 How to install
+
+Don't have Danganmake yet? **[Get it on itch.io](https://freddysdarkon.itch.io/danganmake)**.
 
 1. Go to the **[Releases page](https://github.com/kfcbathroom25/danganmake-closingargumentdr2/releases/latest)** and download the latest `.zip`.
 2. Unzip it.
@@ -125,6 +126,19 @@ The Page Builder is where you make the comic yourself: the pages, their panels, 
 <p align="center"><img src="docs/editor_events.jpg" alt="Game over events" width="100%"></p>
 
 The same editor Danganmake uses for dialogue. Add lines, change the music or HUD, set someone's sprite, and place the **CONTINUE?** question.
+
+## 🐞 Found a bug?
+
+**[Report it here](https://github.com/kfcbathroom25/danganmake-closingargumentdr2/issues/new?template=bug_report.yml)**. A short form asks what happened and how to make it happen again. Screenshots or a video help a lot.
+
+## 🎲 More minigames
+
+| Minigame | |
+| --- | --- |
+| **[Closing Argument V3](https://github.com/kfcbathroom25/danganmake-closingargumentv3)** | V3's comic-book Closing Argument: rebuild the case one panel at a time. |
+| **[Spot Selection DR2](https://github.com/kfcbathroom25/danganmake-spotselectiondr2)** | DR2's "Select a Suspicious Spot!": find what's wrong in the picture. |
+
+**[See every minigame by kfcbathroom](https://github.com/kfcbathroom25?tab=repositories&q=danganmake-&type=source)**
 
 ## 💬 Credits
 
