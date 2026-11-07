@@ -17,6 +17,20 @@
 </p>
 
 ---
+## Special Notes about the Minigame
+- Max 5 stock waves per closing argument so you can only have up to 5 waves of stock panels (wrong and right ones)
+- Please only use .png files for your panel images.
+
+## Links
+- Gamebanana : https://gamebanana.com/mods/736773
+- Youtube Tutorial : https://youtu.be/FsBWwwhGtTY
+
+## How to Install
+1. Download the .pck file.
+2. Open your trial in Danganmake’s editor.
+3. In the events list, click + Add minigame.
+4. Pick the .pck, give it any name, then press Add.
+5. It now shows up in the events list. Click it, set it up in its editor, then press Insert and done.
 
 ## 💬 Credits
 
